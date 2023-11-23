@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+
+# Visual Studio Code
+.vscode/
+
+# Build output
+dist/
+out/
+
+# Log files
+*.log
